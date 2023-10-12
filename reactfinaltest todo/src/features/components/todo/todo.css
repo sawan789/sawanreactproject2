@@ -1,0 +1,46 @@
+ input[type=checkbox] {
+        font-size: 30px;
+        margin: 3px;
+        padding: 3px;
+        box-sizing: border-box;
+        overflow: hidden;
+        
+      }
+
+      input[type=text] {
+        width: 60%;
+        padding: 6px;
+        border-radius: 5px;
+        border: 2px solid black;
+        text-align: center;
+        box-sizing: border-box;
+        overflow: hidden;
+      }
+
+  input[type=email] {
+        width: 60%;
+        padding: 6px;
+        border-radius: 5px;
+        border: 2px solid black;
+        text-align: center;
+        box-sizing: border-box;
+        overflow: hidden;
+      }
+
+       input[type=password] {
+        width: 60%;
+        padding: 6px;
+        border-radius: 5px;
+        border: 2px solid black;
+        text-align: center;
+        box-sizing: border-box;
+        overflow: hidden;
+      }
+
+      
+
+
+*{
+  box-sizing: border-box;
+}
+  
